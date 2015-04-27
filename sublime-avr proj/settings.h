@@ -1,0 +1,1 @@
+#define F_CPU 1200000UL
