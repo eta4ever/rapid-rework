@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_delay_ms"
+			],
+			[
+				"del",
+				"_delay_us"
+			],
+			[
+				"c",
+				"currFireDelay"
+			],
+			[
+				"de",
+				"delaymsMod"
+			],
+			[
+				"f",
+				"fireDelay"
+			],
+			[
+				"pressed",
+				"pressedTime"
+			],
+			[
+				"dela",
+				"_delay_ms"
+			],
+			[
+				"bb",
+				"bbReadInc"
+			],
+			[
+				"bi",
+				"bigBufferSize"
+			],
+			[
+				"bu",
+				"bigBufferSize"
+			],
+			[
+				"big",
+				"bigBuffer"
+			],
+			[
+				"b",
+				"byteCount"
+			],
+			[
+				"buffe",
+				"bigBuffer"
+			],
+			[
+				"ser",
+				"serialHalfBytes"
+			],
+			[
+				"nix",
+				"nixieData"
+			],
+			[
+				"nixie",
+				"nixieData"
+			],
+			[
+				"di",
+				"digitalWrite	Arduino digitalWrite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 3244,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "SublimeAVR",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"SublimeAVR",
+					""
+				],
+				[
+					"SublimeAVR",
+					"Rebuild"
+				],
+				[
+					"SublimeAVR",
+					"Clean"
+				],
+				[
+					"SublimeAVR",
+					"Debug"
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"SublimeAVR",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "av",
+		"selected_items":
+		[
+			[
+				"av",
+				"AVR: Create/Update Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git/rapid-rework/sublime-avr proj v2"
+	],
+	"file_history":
+	[
+		"/C/git/rapid-rework/sublime-avr proj v2/settings.h",
+		"/C/git/rapid-rework/sublime-avr proj v2/Makefile",
+		"/C/git/rapid-rework/sublime-avr proj v2/a.map",
+		"/C/git/rapid-rework/sublime-avr proj v2/a.lst",
+		"/C/git/rapid-rework/sublime-avr proj v2/a.hex",
+		"/C/Users/trofimov.RRPC/Desktop/денежка.txt",
+		"/Y/GPS Tracking/машинки",
+		"/C/rapid/main.c",
+		"/W/_пароли/users",
+		"/C/avrproj/rapid/a.hex",
+		"/C/avrproj/rapid/settings.h",
+		"/C/avrproj/rapid/main.c",
+		"/C/git/ay-serial/atmega/main.c",
+		"/C/avrproj/rapid/SublimeAVR.sublime-project",
+		"/C/Users/trofimov.RRPC/AppData/Roaming/Sublime Text 3/Packages/AVR/SublimeAVR.sublime-settings",
+		"/C/git/ay-serial/atmega/main_buf.c",
+		"/C/tmp/надергано.",
+		"//192.168.0.195/To/GPS Tracking/машинки",
+		"/C/tmp/надергано",
+		"/C/git/MTKlok/README.md",
+		"/C/git/Piklok/README.md",
+		"/C/Users/trofimov.RRPC/Desktop/реквизиты рязобл.txt",
+		"/C/tmp/ym/sunrider.ym",
+		"/C/_downloads/allmods.txt",
+		"/C/tmp/YM_004.YM",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/allmods.txt",
+		"/C/tmp/main.ino",
+		"/C/1.img",
+		"/C/util/wnr612ert-V1.0.0.3_1.0.8.img",
+		"/C/tmp/kl",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/Руководство.htm",
+		"//STORAGE/Backup/2bd/Distrib/graphic/Preps 6.3/path for medicine.txt",
+		"/C/_downloads/eta4ever_wp1.sql",
+		"/G/thinstation.txt",
+		"/Y/RRPC/users",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/an3268/stm32vldiscovery_package/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/an3268/stm32vldiscovery_package/Libraries/STM32F10x_StdPeriph_Driver/inc/misc.h",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/an3268/stm32vldiscovery_package/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.h",
+		"/C/_downloads/brut/words.txt",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/an3268/stm32vldiscovery_package/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/startup/iar/startup_stm32f10x_md.s",
+		"/W/_пароли/vreg",
+		"//Storage/Backup/2bd/Distrib/_Система/Windows 7 x64/restore.txt",
+		"/C/_downloads/brut/users.txt",
+		"/Y/_Телефония/PAP2P SPA112/recover run as admin.",
+		"/Y/_Телефония/PAP2P SPA112/dial plan",
+		"/Y/RRPC/mail",
+		"/W/_пароли/mail.txt",
+		"/C/tmp/override.css",
+		"/Y/Почта rrpc.ru/107.txt",
+		"//termserver/e$/vm/centos-accounting.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/Y/rrpc site/access",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/style.css",
+		"/Y/rrpc site/wordpress/wp-config.php",
+		"/Y/rrpc site/bootstrap test/index.html",
+		"/Y/rrpc site/ftp",
+		"//Storage/Backup/2bd/Distrib/_Система/Windows XP/XP PRO SP3 RUS CORP/CDKEYS.TXT",
+		"/W/_пароли/эра-4",
+		"/Y/_Телефония/_Сотком IP телефония/контакты.txt",
+		"/Y/_Телефония/_Сотком IP телефония/настройки дылинка.txt",
+		"/Y/_Телефония/_Сотком IP телефония/сервер.txt",
+		"//STORAGE/Backup/2bd/Distrib/_Офис/Office 2010/x64 sp1/key.txt",
+		"/C/pr-eta-fd.conf",
+		"//STORAGE/Backup/FTP/sync.log",
+		"//STORAGE/Backup/2014-11-18/Внимание.txt",
+		"/W/_пароли/FTP",
+		"/C/tmp/XP PRO SP3 RUS CORP/CDKEYS.TXT",
+		"/Y/Система учета рабочих операций/_comment",
+		"/Y/Система учета рабочих операций/2014-10-31/act_fill.php",
+		"/W/_пароли/mysql",
+		"/W/_пароли/линуксовые серверы",
+		"/W/0__важная записка.txt",
+		"/Y/Горбач/google acc.",
+		"/C/Users/trofimov.RRPC/Desktop/Новый текстовый документ.txt",
+		"/W/_пароли/наши сайты/забугро.txt",
+		"/W/_пароли/наши сайты/ybmc.ru.txt",
+		"/W/_пароли/наши сайты/наши домены HC.txt",
+		"/C/_downloads/NaviTelAuto_Activation_Key.txt",
+		"/W/_пароли/FTP 2014-06-03",
+		"/Y/_Телефония/_Сотком IP телефония/955995",
+		"/C/mediacoder/rcsl.txt",
+		"//STORAGE/Backup/2bd/Distrib/_Система/Windows 7 x64/restore.txt",
+		"/Y/_prepress/Agfa VCF85/сервисный пароль",
+		"/C/Users/trofimov.RRPC/Desktop/rtl-sdr-release/README.windows.txt",
+		"/C/_downloads/dvr-pass/superpassword/Readme.txt",
+		"/Y/GPS Tracking/largus",
+		"/C/Users/trofimov.RRPC/AppData/Local/Temp/_tc/HA4xxB_V2.0_1024.fhf.txt",
+		"/C/rtl-sdr/sdrsharp plgz/READ_ME.txt",
+		"/C/rtl-sdr/sdrsharp/Plugins.xml",
+		"//Rrpc-server/to/_Компы наши/2014-09-03/reports/004.htm",
+		"//Rrpc-server/to/_Компы наши/2014-09-03/002.htm",
+		"//Rrpc-server/to/_Компы наши/2014-09-03/003.htm",
+		"//Rrpc-server/TO/RRPC/users",
+		"//Rrpc-server/to/_Компы наши/2014-09-03/001.htm",
+		"/D/Document/Warranty_RU.txt",
+		"//Rrpc-server/TO/Почта rrpc.ru/107.txt",
+		"/C/Users/trofimov.RRPC/Documents/Arduino/libraries/Timer/timer.cpp",
+		"/C/tmp/timer/timer.ino",
+		"/C/_downloads/Timer/timer.h",
+		"/C/_downloads/Timer/timer.cpp",
+		"/C/_downloads/DS1307RTC/DS1307RTC.h",
+		"//192.168.0.100/to/_Документы/реквизиты рязобл.txt",
+		"//Rrpc-server/to/Почта rrpc.ru/107.txt",
+		"/C/_downloads/callsign_phys.doc",
+		"/C/Users/trofimov.RRPC/Desktop/Заявка на категорию.doc",
+		"//Rrpc-server/to/_Компы наши/2014-03-27/reports/pp-design.htm",
+		"//Rrpc-server/to/Почта rrpc.ru/шарофолдыры.",
+		"/W/_пароли/bkp",
+		"//Rrpc-server/to/Система учета рабочих операций/_comment",
+		"/C/tmp/ser.vbs",
+		"/Y/Почта rrpc.ru/доки/дока по подъему почтовика.htm",
+		"/Y/СБ Новомичуринск/пароли",
+		"/E/_CRACK/README.TXT",
+		"/C/Users/trofimov.RRPC/Desktop/2011-11 (2.0.9)/_CRACK/Read me.txt",
+		"/X/_пароли/FTP 2014-06-03",
+		"/C/tmp/py/clicker4.py",
+		"/C/tmp/py/clicker2.py",
+		"//RRPC-SERVER/d$/To/Почта rrpc.ru/107.txt",
+		"/C/tmp/py/clicker1.py",
+		"//RRPC-SERVER/d$/To/Почта rrpc.ru/доки/дока по подъему почтовика.htm",
+		"//192.168.0.109/Work/To/Почта rrpc.ru/107.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"9600",
+			"6000",
+			"attin",
+			"path",
+			"tiny",
+			"mcu",
+			"delay",
+			"rcc",
+			"/n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SublimeAVR.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
