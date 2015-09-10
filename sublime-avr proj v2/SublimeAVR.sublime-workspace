@@ -75,14 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "main.c",
-			"settings":
-			{
-				"buffer_size": 3244,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "SublimeAVR",
 	"build_system_choices":
@@ -173,6 +165,10 @@
 	],
 	"file_history":
 	[
+		"/C/git/dimmer485/sublime-avr proj/main.c",
+		"/C/git/rapid-rework/sublime-avr proj v2/SublimeAVR.sublime-project",
+		"/C/git/rapid-rework/sublime-avr proj v2/main.c",
+		"/C/git/dimmer485/sublime-avr proj/Makefile",
 		"/C/git/rapid-rework/sublime-avr proj v2/settings.h",
 		"/C/git/rapid-rework/sublime-avr proj v2/Makefile",
 		"/C/git/rapid-rework/sublime-avr proj v2/a.map",
@@ -338,38 +334,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "main.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3244,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								151,
-								151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
